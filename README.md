@@ -1,2 +1,2 @@
 # example_rep
-Example project
+Example project- this a sample project
